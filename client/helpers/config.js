@@ -1,5 +1,5 @@
-Accounts.ui.config({
+//Accounts.ui.config({
   //passwordSignupFields: 'USERNAME_AND_OPTIONAL_EMAIL'
-});
+//});
 
 moment.locale('de');

@@ -20,7 +20,7 @@ twbs:bootstrap
 fortawesome:fontawesome
 
 # accounting
-#accounts-password
+accounts-password
 #accounts-ui
 #accounts-ui-unstyled
 #alanning:roles
@@ -81,7 +81,8 @@ meteorhacks:fast-render
 # dev
 #anti:fake
 ostrio:logger
-ostrio:loggerfile
+#ostrio:loggerfile
+ostrio:loggermongo
 msavin:mongol
 meteorhacks:npm
 

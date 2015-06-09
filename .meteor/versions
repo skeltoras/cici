@@ -1,4 +1,5 @@
 accounts-base@1.2.0
+accounts-password@1.1.1
 aldeed:template-extension@3.4.3
 autoupdate@1.2.1
 babrahams:editable-json@0.4.3
@@ -15,6 +16,7 @@ dburles:mongo-collection-instances@0.3.3
 ddp@1.1.0
 deps@1.0.7
 ejson@1.0.6
+email@1.0.6
 fastclick@1.0.3
 fortawesome:fontawesome@4.3.0
 geojson-utils@1.0.3
@@ -54,12 +56,12 @@ mobile-status-bar@1.0.3
 momentjs:moment@2.10.3
 mongo@1.1.0
 msavin:mongol@1.0.97
+npm-bcrypt@0.7.8_2
 npm-container@1.0.0
 observe-sequence@1.0.6
 ordered-dict@1.0.3
 ostrio:logger@0.0.8
-ostrio:loggerfile@0.0.11
-ostrio:meteor-root@1.0.0
+ostrio:loggermongo@0.0.9
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5
@@ -69,8 +71,10 @@ routepolicy@1.0.5
 sacha:spin@2.0.4
 service-configuration@1.0.4
 session@1.1.0
+sha@1.0.3
 spacebars@1.0.6
 spacebars-compiler@1.0.6
+srp@1.0.3
 templating@1.1.1
 tracker@1.0.7
 twbs:bootstrap@3.3.4
